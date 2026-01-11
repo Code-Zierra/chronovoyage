@@ -93,7 +93,7 @@ chronovoyage/
 
 #### 1. Clone/Download the Project
 ```bash
-git clone https://github.com/yourusername/chronovoyage.git
+git clone https://github.com/Code-Zierra/chronovoyage.gi
 cd chronovoyage
 ```
 
@@ -409,7 +409,7 @@ copies or substantial portions of the Software.
 ### Cloud Deployment (AWS, DigitalOcean)
 ```bash
 # Example deployment script
-git clone https://github.com/yourusername/chronovoyage.git
+git clone https://github.com/Code-Zierra/chronovoyage.git
 sudo apt-get update
 sudo apt-get install apache2 mysql-server php libapache2-mod-php
 sudo mysql_secure_installation
@@ -432,7 +432,7 @@ EXPOSE 80
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/chronovoyage.git
+git clone https://github.com/Code-Zierra/chronovoyage.git
 
 # 2. Navigate to project
 cd chronovoyage
